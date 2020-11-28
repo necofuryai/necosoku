@@ -1,0 +1,50 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ねこ速 - necofuryai official web site -</title>
+    <link>https://necosoku.com/</link>
+    <description>Recent content on ねこ速 - necofuryai official web site -</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-jp</language>
+    <copyright>MIT</copyright>
+    <lastBuildDate>Sat, 28 Nov 2020 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="https://necosoku.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Archives</title>
+      <link>https://necosoku.com/archives/</link>
+      <pubDate>Sat, 28 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://necosoku.com/archives/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Posts</title>
+      <link>https://necosoku.com/post/</link>
+      <pubDate>Sat, 28 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://necosoku.com/post/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://necosoku.com/about/</link>
+      <pubDate>Fri, 27 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://necosoku.com/about/</guid>
+      <description>&lt;p&gt;ねこふりゃい。(necofuryai) です。通信会社で個人情報の流出を防ぐ仕事をしております。
+よろしくお願い致します。&lt;/p&gt;
+&lt;h2 id=&#34;言語&#34;&gt;言語&lt;/h2&gt;
+&lt;h3 id=&#34;python-javascript-phpgoogle-apps-script-html-css-swift&#34;&gt;Python, JavaScript, PHP, Google Apps Script, HTML, CSS, Swift&lt;/h3&gt;
+&lt;h2 id=&#34;frameworks-andlibraries&#34;&gt;Frameworks and libraries&lt;/h2&gt;
+&lt;h3 id=&#34;lightgbm-xgboost-keras-tensorflow-pytorch-chainer&#34;&gt;LightGBM, XGBoost, Keras, TensorFlow, Pytorch, Chainer&lt;/h3&gt;
+&lt;h2 id=&#34;やることリスト&#34;&gt;やることリスト&lt;/h2&gt;
+&lt;h3 id=&#34;kaggle-competitions-masterになるライトノベル執筆新人賞応募米国株投資&#34;&gt;Kaggle Competitions Masterになる、ライトノベル執筆、新人賞応募、米国株投資&lt;/h3&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

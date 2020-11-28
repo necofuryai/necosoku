@@ -1,0 +1,23 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>index on ねこ速 - necofuryai official web site -</title>
+    <link>https://necosoku.com/tags/index/</link>
+    <description>Recent content in index on ねこ速 - necofuryai official web site -</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-jp</language>
+    <copyright>MIT</copyright>
+    
+        <atom:link href="https://necosoku.com/tags/index/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Posts</title>
+      <link>https://necosoku.com/post/</link>
+      <pubDate>Sat, 28 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://necosoku.com/post/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

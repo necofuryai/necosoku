@@ -1,0 +1,33 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on ねこ速 - necofuryai official web site -</title>
+    <link>https://necosoku.com/tags/</link>
+    <description>Recent content in Tags on ねこ速 - necofuryai official web site -</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-jp</language>
+    <copyright>MIT</copyright>
+    <lastBuildDate>Sat, 28 Nov 2020 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="https://necosoku.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>portfolio</title>
+      <link>https://necosoku.com/tags/portfolio/</link>
+      <pubDate>Sat, 28 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://necosoku.com/tags/portfolio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>index</title>
+      <link>https://necosoku.com/tags/index/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://necosoku.com/tags/index/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

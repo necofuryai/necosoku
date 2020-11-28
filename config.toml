@@ -1,0 +1,89 @@
+theme = "bento"
+languageCode = "ja-jp"
+baseurl = "https://necosoku.com/"
+title = "ねこ速 - necofuryai official web site -"
+
+author = "Leonardo Faria"
+copyright = "MIT"
+
+[taxonomies]
+category = "categories"
+tag = "tags"
+
+# Better code higlighting
+# via https://discourse.gohugo.io/t/pygmentscodefences-how-to-choose-themes/3842/3
+pygmentsCodefences = true
+pygmentsStyle = "vs"
+
+# Integrations
+googleAnalytics = "UA-130233892-2"
+disqusShortname = "bento-hugo-theme"
+
+# Hightlight theme
+[markup.highlight]
+  style = "github"
+
+# Allow HTML rendering inside markdown
+[markup.goldmark.renderer]
+  unsafe = true
+
+[params]
+  # Show intro in the home page (with headline and description)
+  intro = true
+  headline = "Headline"
+  description = "ねこふりゃい。necofuryai official web site ねこ速へようこそ！"
+
+  # Copyright note in the footer
+  copyright = "Copyright © 2020 necofuryai"
+
+  # Image in the homepage. You can setup a different image for social media
+  cover = "images/IMG_1859.jpg"
+  ogImage = "images/og_image.jpg"
+
+  # Social media usernames
+  github = "necofuryai"
+  twitter = "necofuryai"
+  # linkedin = "https://linkedin.com/in/XXXX"
+  # email = "email@xxxx.com"
+
+  # Learn more about webmention 
+  # https://sebastiandedeyne.com/adding-webmentions-to-my-blog/
+  # webmention = ""
+
+  # Avatar (shown in the homepage)
+  avatar = "images/small.png"
+  # Bio is shown in the end of posts
+  authorBio = "Follow necofuryai on <a href='https://twitter.com/necofuryai'>Twitter</a>"
+
+# If you want to use fathom (https://usefathom.com) for analytics, add this section
+[params.fathomAnalytics]
+  siteID = "XXXXX"
+  # Default value is cdn.usefathom.com, overwrite this if you are self-hosting
+  serverURL = "analytics.example.com"
+
+# If you want to use umami (https://umami.is/) for analytics, add this section
+[params.umami]
+  siteID = "XXXXX"
+  trackerScript = "//umami.example.com/umami.js"
+
+# Items in the top menu
+[menu]
+  [[menu.main]]
+      name = "About"
+      url = "/about"
+      weight = 1
+
+  [[menu.main]]
+      name = "Kaggle"
+      url = "https://www.kaggle.com/necofuryai"
+      weight = 1
+
+  [[menu.main]]
+      name = "Portfolio"
+      url = "/portfolio"
+      weight = 1
+
+  [[menu.main]]
+      name = "Archives"
+      url = "/archives"
+      weight = 1
