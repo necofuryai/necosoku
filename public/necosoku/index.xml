@@ -1,0 +1,14 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Necosoku on ねこ速 - necosoku -</title>
+    <link>https://necosoku.com/necosoku/</link>
+    <description>Recent content in Necosoku on ねこ速 - necosoku -</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-jp</language>
+    <copyright>MIT</copyright>
+    
+        <atom:link href="https://necosoku.com/necosoku/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>

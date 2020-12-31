@@ -1,10 +1,14 @@
 theme = "bento"
 languageCode = "ja-jp"
 baseurl = "https://necosoku.com/"
-title = "ねこ速 - necofuryai official web site -"
+title = "ねこ速 - necosoku -"
 
 author = "Leonardo Faria"
 copyright = "MIT"
+
+# Integrations
+googleAnalytics = "UA-130233892-2"
+disqusShortname = "necosoku"
 
 [taxonomies]
 category = "categories"
@@ -15,9 +19,7 @@ tag = "tags"
 pygmentsCodefences = true
 pygmentsStyle = "vs"
 
-# Integrations
-googleAnalytics = "UA-130233892-2"
-disqusShortname = "bento-hugo-theme"
+
 
 # Hightlight theme
 [markup.highlight]
@@ -31,10 +33,10 @@ disqusShortname = "bento-hugo-theme"
   # Show intro in the home page (with headline and description)
   intro = true
   headline = "Headline"
-  description = "ねこふりゃい。necofuryai official web site ねこ速へようこそ！"
+  description = "ねこふりゃい。necofuryai official web site 『ねこ速』へようこそ！"
 
   # Copyright note in the footer
-  copyright = "Copyright © 2020 necofuryai"
+  copyright = "Copyright © 2021 necofuryai"
 
   # Image in the homepage. You can setup a different image for social media
   cover = "images/IMG_1859.jpg"
