@@ -33,7 +33,7 @@ pygmentsStyle = "vs"
   # Show intro in the home page (with headline and description)
   intro = true
   headline = "Headline"
-  description = "ねこふりゃい。necofuryai official web site 『ねこ速』へようこそ！"
+  description = "ねこふりゃい。Necofuryai official web site 『ねこ速』へようこそ！"
 
   # Copyright note in the footer
   copyright = "Copyright © 2021 necofuryai"
